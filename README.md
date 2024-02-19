@@ -1,1 +1,1 @@
-# GitHubCopilot
+# GitHub Copilot
